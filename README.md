@@ -1,3 +1,5 @@
+
+<!--redeploytrigger:runD1migrations-->
 # CDT-Management Workers
 
 **Cloudflare Workers + D1 版 CDT 管理面板：阿里云 CDT 抢占式实例的单机保活 + 多机联合换班 + DDNS + 通知。**
